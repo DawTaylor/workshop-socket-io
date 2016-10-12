@@ -1,1 +1,1 @@
-# workshop-socket-io
+# Exercícios do workshop de Socket.io
